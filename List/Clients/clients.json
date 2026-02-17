@@ -62,5 +62,9 @@
   {
     "ID": 22,
     "NomeCliente": "testCancellazioneRepo"
+  },
+  {
+    "ID": 23,
+    "NomeCliente": "ProvaInserimento"
   }
 ]

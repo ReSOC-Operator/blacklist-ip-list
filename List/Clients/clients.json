@@ -58,9 +58,5 @@
   {
     "ID": 21,
     "NomeCliente": "NuovoCliente.FW1"
-  },
-  {
-    "ID": 22,
-    "NomeCliente": "testCancellazioneRepo"
   }
 ]
